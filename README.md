@@ -1,4 +1,4 @@
-# Módulo de LED con Componentes SMD en Altium Designer
+# Módulo de LEDs con Componentes SMD en Altium Designer
 
 Este repositorio contiene los archivos de diseño de un módulo electrónico compacto de iluminación basado en **LEDs** de montaje superficial (**SMD**). El proyecto fue desarrollado en **Altium Designer** y es un excelente ejemplo para quienes deseen practicar el diseño de placas de circuito impreso (PCB) con componentes SMD para aplicaciones de señalización, indicadores o iluminación de bajo consumo.
 
